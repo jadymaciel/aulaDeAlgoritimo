@@ -1,0 +1,6 @@
+﻿  SalarioFuncionario.c
+D:\Cursos\LinguagemC\Salario\Salario\SalarioFuncionario.c(12,8): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Cursos\LinguagemC\Salario\Salario\SalarioFuncionario.c(14,8): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Cursos\LinguagemC\Salario\Salario\SalarioFuncionario.c(21,8): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+D:\Cursos\LinguagemC\Salario\Salario\SalarioFuncionario.c(25,23): error C2055: esperada lista de parâmetros formais, não uma lista de tipos
+D:\Cursos\LinguagemC\Salario\Salario\SalarioFuncionario.c(32,12): warning C4098: 'func': função 'void' retornando um valor

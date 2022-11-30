@@ -1,0 +1,7 @@
+﻿  salarioImposto.c
+D:\Cursos\LinguagemC\ordenados\ordenados\salarioImposto.c(8,2): warning C4013: 'printef' indefinido; assumindo extern retornando int
+D:\Cursos\LinguagemC\ordenados\ordenados\salarioImposto.c(9,2): warning C4013: 'sacanf' indefinido; assumindo extern retornando int
+salarioImposto.obj : error LNK2005: main já definida no ordenado.obj
+salarioImposto.obj : error LNK2019: símbolo externo não resolvido, printef, referenciado na função main
+salarioImposto.obj : error LNK2019: símbolo externo não resolvido, sacanf, referenciado na função main
+D:\Cursos\LinguagemC\ordenados\x64\Debug\ordenados.exe : fatal error LNK1120: 2 externo não resolvidos
